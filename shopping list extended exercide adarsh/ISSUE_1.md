@@ -40,7 +40,7 @@ input.addEventListener("keypress", addListAfterKeypress);
 ```
 ### ISSUE 1 The done class is defined in the style.css file only , not in the index.html file , but for this don't i need to have a done class in the index.html file aswell , otherwise how will style.css file access the class, that does not exist in index.html or has the done class been specified somewhere in the index.html file. please explain this issue fundamentally from the root 
 
-###SOLUTION👉Certainly, let's clarify this point.
+### SOLUTION👉Certainly, let's clarify this point.
 
 In web development, the HTML file is responsible for the structure of your webpage, the CSS file for styling, and the JavaScript file for behavior or functionality. The HTML file should include elements (with classes, ids, etc.) that are then styled by the CSS file and manipulated by the JavaScript file.
 
