@@ -1,6 +1,6 @@
 WE NEED TO ADD THE FOLLOWING THINGS IN THE PROJECT ACCORDING TO THE COMMAND , I HAVE WRITEN THE COMAND EXECUTION , ISSUES FACED & SOLUTION OF THE ISSUE
 
-## TASK 1. If you click on the list item, it toggles the .done  class on and off
+## TASK 1👉 If you click on the list item, it toggles the .done  class on and off
 ```
 var button = document.getElementById("enter");
 var input = document.getElementById("userinput");
@@ -38,7 +38,7 @@ function addListAfterKeypress(event) {
 button.addEventListener("click", addListAfterClick);
 input.addEventListener("keypress", addListAfterKeypress);
 ```
-### ISSUE 1 The done class is defined in the style.css file only , not in the index.html file , but for this don't i need to have a done class in the index.html file aswell , otherwise how will style.css file access the class, that does not exist in index.html or has the done class been specified somewhere in the index.html file. please explain this issue fundamentally from the root 
+### ISSUE 1👉 The done class is defined in the style.css file only , not in the index.html file , but for this don't i need to have a done class in the index.html file aswell , otherwise how will style.css file access the class, that does not exist in index.html or has the done class been specified somewhere in the index.html file. please explain this issue fundamentally from the root 
 
 ### SOLUTION👉Certainly, let's clarify this point.
 
