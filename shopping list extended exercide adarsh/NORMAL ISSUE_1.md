@@ -1,4 +1,4 @@
-## issue 1 - what is the difference between append child and append in js
+## issue 1 - what is the difference between (appendChild) and (append) in js
 
 ## solution👉
 In JavaScript, both appendChild and append are methods used to add elements to the DOM (Document Object Model), but they have some differences in terms of usage and functionality.
