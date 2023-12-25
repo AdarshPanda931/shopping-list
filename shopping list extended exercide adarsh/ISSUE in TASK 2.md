@@ -1,4 +1,4 @@
-## while adding delete feature to new and existing list items , I ofund the difference between (var) & (let)
+## while adding delete feature to new and existing list items , I found the difference between (var) & (let)
 
 ### task 2 👉 Add buttons next to each list item to delete the item when clicked on its corresponding delete button. ensure that the delete buttons are added to both newly created list items and existing ones
 
