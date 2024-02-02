@@ -1,4 +1,4 @@
-# shopping list project :- -
+# shopping list project :-
 
 1-adarsh solution :-
 
